@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+body { font-family: Arial, sans-serif; padding: 20px; background:#f7f7f7; }
+input { margin-right:8px; padding:6px; }
+button { margin-right:6px; padding:6px 10px; cursor:pointer; }
+table { border-collapse: collapse; width: 100%; max-width: 900px; background:white; }
+th, td { border: 1px solid #ddd; padding: 8px; text-align:left; }
+
